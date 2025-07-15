@@ -80,7 +80,7 @@ This project demonstrates a real-world application of A/B testing principles. It
 ## 👤 Author
 
 **Your Name**  
-[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+[LinkedIn](https://www.linkedin.com/in/murodbek-abdullaev-639358229/) | [GitHub](https://github.com/abuumar8217)
 
 ---
 
